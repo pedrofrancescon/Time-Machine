@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EA6D06D1E9323D20096A165"
-               BuildableName = "aaaaaaaaa.app"
-               BlueprintName = "aaaaaaaaa"
-               ReferencedContainer = "container:aaaaaaaaa.xcodeproj">
+               BuildableName = "Time Machine.app"
+               BlueprintName = "Time Machine"
+               ReferencedContainer = "container:Time Machine.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EA6D0811E9323D20096A165"
-               BuildableName = "aaaaaaaaaTests.xctest"
-               BlueprintName = "aaaaaaaaaTests"
-               ReferencedContainer = "container:aaaaaaaaa.xcodeproj">
+               BuildableName = "Time MachineTests.xctest"
+               BlueprintName = "Time MachineTests"
+               ReferencedContainer = "container:Time Machine.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EA6D08C1E9323D20096A165"
-               BuildableName = "aaaaaaaaaUITests.xctest"
-               BlueprintName = "aaaaaaaaaUITests"
-               ReferencedContainer = "container:aaaaaaaaa.xcodeproj">
+               BuildableName = "Time MachineUITests.xctest"
+               BlueprintName = "Time MachineUITests"
+               ReferencedContainer = "container:Time Machine.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EA6D06D1E9323D20096A165"
-            BuildableName = "aaaaaaaaa.app"
-            BlueprintName = "aaaaaaaaa"
-            ReferencedContainer = "container:aaaaaaaaa.xcodeproj">
+            BuildableName = "Time Machine.app"
+            BlueprintName = "Time Machine"
+            ReferencedContainer = "container:Time Machine.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EA6D06D1E9323D20096A165"
-            BuildableName = "aaaaaaaaa.app"
-            BlueprintName = "aaaaaaaaa"
-            ReferencedContainer = "container:aaaaaaaaa.xcodeproj">
+            BuildableName = "Time Machine.app"
+            BlueprintName = "Time Machine"
+            ReferencedContainer = "container:Time Machine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EA6D06D1E9323D20096A165"
-            BuildableName = "aaaaaaaaa.app"
-            BlueprintName = "aaaaaaaaa"
-            ReferencedContainer = "container:aaaaaaaaa.xcodeproj">
+            BuildableName = "Time Machine.app"
+            BlueprintName = "Time Machine"
+            ReferencedContainer = "container:Time Machine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

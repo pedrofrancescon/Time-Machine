@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E1768A01EB2C985001860EC /* IMG_5832.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 8E17689F1EB2C985001860EC /* IMG_5832.PNG */; };
+		8E2BF0FB1E942F570012D9BB /* LeafParticle_Autumn.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E2BF0F91E942F570012D9BB /* LeafParticle_Autumn.png */; };
+		8E2BF0FC1E942F570012D9BB /* LeafParticle_Summer.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E2BF0FA1E942F570012D9BB /* LeafParticle_Summer.png */; };
 		8E45934D1E9324AE00F74FFE /* AutumnBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E4593401E9324AE00F74FFE /* AutumnBackground.png */; };
 		8E45934E1E9324AE00F74FFE /* HourglassImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E4593411E9324AE00F74FFE /* HourglassImage.png */; };
 		8E4593501E9324AE00F74FFE /* LowerBrach_Autumn.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E4593431E9324AE00F74FFE /* LowerBrach_Autumn.png */; };
@@ -48,6 +51,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E17689F1EB2C985001860EC /* IMG_5832.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_5832.PNG; sourceTree = "<group>"; };
+		8E2BF0F91E942F570012D9BB /* LeafParticle_Autumn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LeafParticle_Autumn.png; sourceTree = "<group>"; };
+		8E2BF0FA1E942F570012D9BB /* LeafParticle_Summer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LeafParticle_Summer.png; sourceTree = "<group>"; };
 		8E4593401E9324AE00F74FFE /* AutumnBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AutumnBackground.png; path = ../AutumnBackground.png; sourceTree = "<group>"; };
 		8E4593411E9324AE00F74FFE /* HourglassImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = HourglassImage.png; path = ../HourglassImage.png; sourceTree = "<group>"; };
 		8E4593431E9324AE00F74FFE /* LowerBrach_Autumn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LowerBrach_Autumn.png; path = ../LowerBrach_Autumn.png; sourceTree = "<group>"; };
@@ -61,17 +67,17 @@
 		8E45934C1E9324AE00F74FFE /* WinterBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = WinterBackground.png; path = ../WinterBackground.png; sourceTree = "<group>"; };
 		8E45935A1E9344CB00F74FFE /* LeftEdge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LeftEdge.png; sourceTree = "<group>"; };
 		8E45935B1E9344CB00F74FFE /* RightEdge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RightEdge.png; sourceTree = "<group>"; };
-		8EA6D06E1E9323D20096A165 /* aaaaaaaaa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aaaaaaaaa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EA6D06E1E9323D20096A165 /* Time Machine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Time Machine.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EA6D0711E9323D20096A165 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EA6D0731E9323D20096A165 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8EA6D0761E9323D20096A165 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8EA6D0781E9323D20096A165 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EA6D07B1E9323D20096A165 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EA6D07D1E9323D20096A165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8EA6D0821E9323D20096A165 /* aaaaaaaaaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aaaaaaaaaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EA6D0821E9323D20096A165 /* Time MachineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Time MachineTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EA6D0861E9323D20096A165 /* aaaaaaaaaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaaaaaaaaTests.swift; sourceTree = "<group>"; };
 		8EA6D0881E9323D20096A165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8EA6D08D1E9323D20096A165 /* aaaaaaaaaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aaaaaaaaaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EA6D08D1E9323D20096A165 /* Time MachineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Time MachineUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EA6D0911E9323D20096A165 /* aaaaaaaaaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaaaaaaaaUITests.swift; sourceTree = "<group>"; };
 		8EA6D0931E9323D20096A165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8ED0CE041E9352F60076FD78 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
@@ -115,9 +121,9 @@
 		8EA6D06F1E9323D20096A165 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8EA6D06E1E9323D20096A165 /* aaaaaaaaa.app */,
-				8EA6D0821E9323D20096A165 /* aaaaaaaaaTests.xctest */,
-				8EA6D08D1E9323D20096A165 /* aaaaaaaaaUITests.xctest */,
+				8EA6D06E1E9323D20096A165 /* Time Machine.app */,
+				8EA6D0821E9323D20096A165 /* Time MachineTests.xctest */,
+				8EA6D08D1E9323D20096A165 /* Time MachineUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,6 +131,8 @@
 		8EA6D0701E9323D20096A165 /* aaaaaaaaa */ = {
 			isa = PBXGroup;
 			children = (
+				8E2BF0F91E942F570012D9BB /* LeafParticle_Autumn.png */,
+				8E2BF0FA1E942F570012D9BB /* LeafParticle_Summer.png */,
 				8E45935A1E9344CB00F74FFE /* LeftEdge.png */,
 				8E45935B1E9344CB00F74FFE /* RightEdge.png */,
 				8EA6D0711E9323D20096A165 /* AppDelegate.swift */,
@@ -133,6 +141,7 @@
 				8EA6D0751E9323D20096A165 /* Main.storyboard */,
 				8EA6D0781E9323D20096A165 /* Assets.xcassets */,
 				8EA6D07A1E9323D20096A165 /* LaunchScreen.storyboard */,
+				8E17689F1EB2C985001860EC /* IMG_5832.PNG */,
 				8EA6D07D1E9323D20096A165 /* Info.plist */,
 				8E4593401E9324AE00F74FFE /* AutumnBackground.png */,
 				8E4593411E9324AE00F74FFE /* HourglassImage.png */,
@@ -170,9 +179,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8EA6D06D1E9323D20096A165 /* aaaaaaaaa */ = {
+		8EA6D06D1E9323D20096A165 /* Time Machine */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8EA6D0961E9323D20096A165 /* Build configuration list for PBXNativeTarget "aaaaaaaaa" */;
+			buildConfigurationList = 8EA6D0961E9323D20096A165 /* Build configuration list for PBXNativeTarget "Time Machine" */;
 			buildPhases = (
 				8EA6D06A1E9323D20096A165 /* Sources */,
 				8EA6D06B1E9323D20096A165 /* Frameworks */,
@@ -182,14 +191,14 @@
 			);
 			dependencies = (
 			);
-			name = aaaaaaaaa;
+			name = "Time Machine";
 			productName = aaaaaaaaa;
-			productReference = 8EA6D06E1E9323D20096A165 /* aaaaaaaaa.app */;
+			productReference = 8EA6D06E1E9323D20096A165 /* Time Machine.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8EA6D0811E9323D20096A165 /* aaaaaaaaaTests */ = {
+		8EA6D0811E9323D20096A165 /* Time MachineTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8EA6D0991E9323D20096A165 /* Build configuration list for PBXNativeTarget "aaaaaaaaaTests" */;
+			buildConfigurationList = 8EA6D0991E9323D20096A165 /* Build configuration list for PBXNativeTarget "Time MachineTests" */;
 			buildPhases = (
 				8EA6D07E1E9323D20096A165 /* Sources */,
 				8EA6D07F1E9323D20096A165 /* Frameworks */,
@@ -200,14 +209,14 @@
 			dependencies = (
 				8EA6D0841E9323D20096A165 /* PBXTargetDependency */,
 			);
-			name = aaaaaaaaaTests;
+			name = "Time MachineTests";
 			productName = aaaaaaaaaTests;
-			productReference = 8EA6D0821E9323D20096A165 /* aaaaaaaaaTests.xctest */;
+			productReference = 8EA6D0821E9323D20096A165 /* Time MachineTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		8EA6D08C1E9323D20096A165 /* aaaaaaaaaUITests */ = {
+		8EA6D08C1E9323D20096A165 /* Time MachineUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8EA6D09C1E9323D20096A165 /* Build configuration list for PBXNativeTarget "aaaaaaaaaUITests" */;
+			buildConfigurationList = 8EA6D09C1E9323D20096A165 /* Build configuration list for PBXNativeTarget "Time MachineUITests" */;
 			buildPhases = (
 				8EA6D0891E9323D20096A165 /* Sources */,
 				8EA6D08A1E9323D20096A165 /* Frameworks */,
@@ -218,9 +227,9 @@
 			dependencies = (
 				8EA6D08F1E9323D20096A165 /* PBXTargetDependency */,
 			);
-			name = aaaaaaaaaUITests;
+			name = "Time MachineUITests";
 			productName = aaaaaaaaaUITests;
-			productReference = 8EA6D08D1E9323D20096A165 /* aaaaaaaaaUITests.xctest */;
+			productReference = 8EA6D08D1E9323D20096A165 /* Time MachineUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -250,7 +259,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8EA6D0691E9323D20096A165 /* Build configuration list for PBXProject "aaaaaaaaa" */;
+			buildConfigurationList = 8EA6D0691E9323D20096A165 /* Build configuration list for PBXProject "Time Machine" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -263,9 +272,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8EA6D06D1E9323D20096A165 /* aaaaaaaaa */,
-				8EA6D0811E9323D20096A165 /* aaaaaaaaaTests */,
-				8EA6D08C1E9323D20096A165 /* aaaaaaaaaUITests */,
+				8EA6D06D1E9323D20096A165 /* Time Machine */,
+				8EA6D0811E9323D20096A165 /* Time MachineTests */,
+				8EA6D08C1E9323D20096A165 /* Time MachineUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -281,6 +290,7 @@
 				8E45935D1E9344CB00F74FFE /* RightEdge.png in Resources */,
 				8E4593571E9324AE00F74FFE /* UpperBrach_Summer.png in Resources */,
 				8EA6D07C1E9323D20096A165 /* LaunchScreen.storyboard in Resources */,
+				8E2BF0FC1E942F570012D9BB /* LeafParticle_Summer.png in Resources */,
 				8E45935C1E9344CB00F74FFE /* LeftEdge.png in Resources */,
 				8E4593501E9324AE00F74FFE /* LowerBrach_Autumn.png in Resources */,
 				8E4593551E9324AE00F74FFE /* SummerBackground.png in Resources */,
@@ -288,8 +298,10 @@
 				8ED0CE051E9352F60076FD78 /* MyParticle.sks in Resources */,
 				8EA6D0791E9323D20096A165 /* Assets.xcassets in Resources */,
 				8EA6D0771E9323D20096A165 /* Main.storyboard in Resources */,
+				8E2BF0FB1E942F570012D9BB /* LeafParticle_Autumn.png in Resources */,
 				8E4593541E9324AE00F74FFE /* Sand.png in Resources */,
 				8E4593561E9324AE00F74FFE /* UpperBrach_Autumn.png in Resources */,
+				8E1768A01EB2C985001860EC /* IMG_5832.PNG in Resources */,
 				8E4593521E9324AE00F74FFE /* LowerBrach_Winter.png in Resources */,
 				8E4593581E9324AE00F74FFE /* UpperBrach_Winter.png in Resources */,
 			);
@@ -342,12 +354,12 @@
 /* Begin PBXTargetDependency section */
 		8EA6D0841E9323D20096A165 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8EA6D06D1E9323D20096A165 /* aaaaaaaaa */;
+			target = 8EA6D06D1E9323D20096A165 /* Time Machine */;
 			targetProxy = 8EA6D0831E9323D20096A165 /* PBXContainerItemProxy */;
 		};
 		8EA6D08F1E9323D20096A165 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8EA6D06D1E9323D20096A165 /* aaaaaaaaa */;
+			target = 8EA6D06D1E9323D20096A165 /* Time Machine */;
 			targetProxy = 8EA6D08E1E9323D20096A165 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -505,7 +517,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = BEPiD.aaaaaaaaaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/aaaaaaaaa.app/aaaaaaaaa";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Time Machine.app/Time Machine";
 			};
 			name = Debug;
 		};
@@ -519,7 +531,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = BEPiD.aaaaaaaaaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/aaaaaaaaa.app/aaaaaaaaa";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Time Machine.app/Time Machine";
 			};
 			name = Release;
 		};
@@ -552,7 +564,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8EA6D0691E9323D20096A165 /* Build configuration list for PBXProject "aaaaaaaaa" */ = {
+		8EA6D0691E9323D20096A165 /* Build configuration list for PBXProject "Time Machine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8EA6D0941E9323D20096A165 /* Debug */,
@@ -561,7 +573,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8EA6D0961E9323D20096A165 /* Build configuration list for PBXNativeTarget "aaaaaaaaa" */ = {
+		8EA6D0961E9323D20096A165 /* Build configuration list for PBXNativeTarget "Time Machine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8EA6D0971E9323D20096A165 /* Debug */,
@@ -570,7 +582,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8EA6D0991E9323D20096A165 /* Build configuration list for PBXNativeTarget "aaaaaaaaaTests" */ = {
+		8EA6D0991E9323D20096A165 /* Build configuration list for PBXNativeTarget "Time MachineTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8EA6D09A1E9323D20096A165 /* Debug */,
@@ -579,7 +591,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8EA6D09C1E9323D20096A165 /* Build configuration list for PBXNativeTarget "aaaaaaaaaUITests" */ = {
+		8EA6D09C1E9323D20096A165 /* Build configuration list for PBXNativeTarget "Time MachineUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8EA6D09D1E9323D20096A165 /* Debug */,
